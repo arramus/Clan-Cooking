@@ -1,0 +1,13 @@
+<configs>
+	<append xpath="/recipes">
+
+<recipe name="foodClanCooking" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef">
+	<ingredient name="foodCanChicken" count="1"/> <!-- Food 15 / Health 7 -->
+	<ingredient name="foodCanCatfood" count="1"/> <!-- Food 5 / Health 2 -->
+	<ingredient name="foodCanMiso" count="1"/> <!-- Water 10 / Food 5 / Health 1 -->
+	<ingredient name="foodCanSoup" count="1"/> <!-- Water 10 / Food 5 / Health 1 -->
+	<ingredient name="foodCanPears" count="1"/> <!-- Water 5 / Food 10 / Health 5 -->	
+</recipe>
+
+	</append>
+</configs>

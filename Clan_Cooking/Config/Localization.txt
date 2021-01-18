@@ -1,0 +1,4 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+foodClanCooking,items,Food,,,Clan Cooking,,,,,
+foodClanCookingDesc,items,Food,,,"Throw together all the junk that usually has no recipe to make a nutritious, delici...(maybe not)...highly nutritious hot pot."
